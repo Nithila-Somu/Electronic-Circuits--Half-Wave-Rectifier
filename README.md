@@ -4,6 +4,15 @@
 To simulate a half wave rectifier circuit and compare the outputs with and without filter:
 ## CIRCUIT DIAGRAM:
 
+**Halfwave Rectifier without filter**
+
+<img width="1008" height="556" alt="image" src="https://github.com/user-attachments/assets/6450a492-8bc5-48df-aefd-3db9b8100061" />
+
+
+**Halfwave Rectifier with filter**
+
+<img width="834" height="523" alt="image" src="https://github.com/user-attachments/assets/f78e90fa-b9fd-4b35-9b94-09edf12f5582" />
+
 ## STEPS FOR SIMULATION:
 1.	Open the Ltspice software
 2.	
@@ -45,4 +54,15 @@ To simulate a half wave rectifier circuit and compare the outputs with and witho
 
 ## OUTPUT:
 
+**Halfwave Rectifier without filter**
+
+![Image](https://github.com/user-attachments/assets/1a1c6273-7618-46cd-92fa-8a1b2089e3d9)
+
+
+**Halfwave Rectifier with filter**
+
+![Image](https://github.com/user-attachments/assets/924abf65-dab4-42ed-bb33-0cea889c0555)
+
 ## RESULT:
+
+  The simulation was done in LTspice and the output waveform is obtained.
