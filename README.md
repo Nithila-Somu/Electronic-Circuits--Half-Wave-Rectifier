@@ -65,4 +65,4 @@ To simulate a half wave rectifier circuit and compare the outputs with and witho
 
 ## RESULT:
 
-<img width="1280" height="565" alt="image" src="https://github.com/user-attachments/assets/fb31337f-7e3e-429b-9894-8a86b1e3b1c8" />
+<img width="738" height="1600" alt="WhatsApp Image 2026-06-11 at 2 10 45 PM" src="https://github.com/user-attachments/assets/491d57cf-8808-432f-843f-78f6ab706fa5" />
